@@ -1,5 +1,5 @@
 // @Title main.go
-// @Description  我用Golang摆烂了你的AE作品
+// @Description  我用Go语言摆烂了你的AE作业
 // @Author  FlyKO  2022/01/08
 package main
 
